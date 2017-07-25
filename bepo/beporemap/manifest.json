@@ -14,10 +14,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 {
-  "name": "BÉPO",
+  "name": "BÉPOLIVIER",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Bépo layout",
+  "description": "BépOlivier layout",
   "background": {
     "scripts": ["background.js"]
   },
@@ -26,10 +26,10 @@ limitations under the License.
   ],
   "input_components": [
     {
-      "name": "Bépo",
+      "name": "BépOlivier",
       "type": "ime",
-      "id": "bepo_azerty",
-      "description": "Bépo layout for azerty",  // user visible description
+      "id": "bepolivier_azerty",
+      "description": "BépOlivier layout for azerty",  // user visible description
       "language": "fr-fr",  // The primary language this IME is used for
       "layouts": ["fr"]
     }
